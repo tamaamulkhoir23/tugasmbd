@@ -1,0 +1,2 @@
+# tugasmbd
+tugas individu smbd
